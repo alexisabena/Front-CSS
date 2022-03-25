@@ -1,0 +1,12 @@
+*{
+    font-family: Montserrat, Poppins;
+}
+
+.tworow{
+    display: flex;
+    
+}
+
+.cardWrapper{
+    display: flex;
+}
